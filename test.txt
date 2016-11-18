@@ -4,4 +4,4 @@ test content.
 oh yes.
 oh my god.
 wo shi ni dad.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
